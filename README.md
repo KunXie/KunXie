@@ -10,4 +10,4 @@
 | Project 2    | description | <img src="./badges/_badge_maintenance.svg" /> <img src="./badges/_badge_recommended.svg" /> |
 | Project 3    | description | <img src="./badges/_badge_maintenance.svg" />                                               |
 | project 4    |             | <img src="./badges/_badge_deprecated.svg" />                                                |
-| project 4    | not working | <span class="badge text-bg-secondary">Depreacted</span>                                     |
+| project 5    | not working | <span class="badge text-bg-secondary">Depreacted</span>                                     |

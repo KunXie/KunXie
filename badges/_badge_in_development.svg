@@ -1,4 +1,4 @@
-<svg fill="none" width="110" height="30" xmlns="http://www.w3.org/2000/svg">
+<svg width="110px" height="30px" fill="none" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -25,11 +25,12 @@
 				vertical-align: baseline;
 				border-radius: var(--bs-badge-border-radius);
 
-				margin-top: 10px; <!-- adjusting the badge position -->
+				<!-- adjusting the badge position -->
+				margin-top: 8px; 
 				font-family: Arial, Helvetica, sans-serif;
 			}
 			</style>
-			<span class="badge text-bg-warning">
+			<span class="badge text-bg-warning" xmlns="http://www.w3.org/1999/xhtml">
 				In Development
 			</span>
 		</div>

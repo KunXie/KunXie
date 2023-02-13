@@ -1,0 +1,37 @@
+<svg fill="none" width="110" height="30" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+			.text-bg-primary {
+				color: #fff!important;
+				background-color: RGBA(13,110,253,var(--bs-bg-opacity,1))!important;
+			}
+			
+			.badge {
+				--bs-badge-padding-x: 0.65em;
+				--bs-badge-padding-y: 0.35em;
+				--bs-badge-font-size: 0.75em;
+				--bs-badge-font-weight: 700;
+				--bs-badge-color: #fff;
+				--bs-badge-border-radius: 0.375rem;
+
+				display: inline-block;
+				padding: var(--bs-badge-padding-y) var(--bs-badge-padding-x);
+				font-size: var(--bs-badge-font-size);
+				font-weight: var(--bs-badge-font-weight);
+				line-height: 1;
+				text-align: center;
+				white-space: nowrap;
+				vertical-align: baseline;
+				border-radius: var(--bs-badge-border-radius);
+
+				margin-top: 10px; <!-- adjusting the badge position -->
+				font-family: Arial, Helvetica, sans-serif;
+			}
+			</style>
+			<span class="badge text-bg-primary">
+				Maintenance
+			</span>
+		</div>
+	</foreignObject>
+</svg>

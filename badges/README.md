@@ -1,6 +1,8 @@
 ## About
 
-Custom SVG badges inspired from [Bootstrap Badges](https://getbootstrap.com/docs/5.3/components/badge/)
+contact: Kun
+
+Custom SVG badges inspired from [Bootstrap Badges](https://getbootstrap.com/docs/5.3/components/badge/), since Github supports SVG in the markdown render
 
 ## Road map
 

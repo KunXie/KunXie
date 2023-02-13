@@ -19,7 +19,6 @@
     border-radius: var(--bs-badge-border-radius);
 
     /* adjusting the badge position */
-    margin-top: 10px; 
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -31,4 +30,14 @@
 .text-bg-secondary {
     color: #fff!important;
     background-color: RGBA(108,117,125,var(--bs-bg-opacity,1))!important;
+}
+
+.text-bg-success {
+    color: #fff!important;
+    background-color: RGBA(25,135,84,var(--bs-bg-opacity,1))!important;
+}
+
+.text-bg-warning {
+    color: #000!important;
+    background-color: RGBA(255,193,7,var(--bs-bg-opacity,1))!important;
 }
